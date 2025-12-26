@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://linchunsun.github.io/linchunsun/sitemap.xml
+Sitemap: https://slcluckyboy.github.io/slcluckyboy/sitemap.xml
